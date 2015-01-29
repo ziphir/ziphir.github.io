@@ -1,0 +1,23 @@
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.leaderboard {
+	padding: 10px;
+	background-repeat:repeat;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+h1 {
+	font-size: 40px;
+	margin-bottom: 5px;
+	line-height: 1;
+	letter-spacing: -1px;
+	color:#FF6600;
+}
+.leaderboard p {
+	font-size: 15px;
+	font-weight: 200;
+	line-height: 27px;
+}
